@@ -17,6 +17,7 @@ There are 2 different ways how docker solves this problem.
 Volumes aims to solve the same problem by providing a way to store data on the host file system, separate from the container's file system, 
 so that the data can persist even if the container is deleted and recreated.
 
+![image](https://github.com/user-attachments/assets/f050e4ea-b51c-40a1-9513-64b5d41f1de2)
 
 
 
